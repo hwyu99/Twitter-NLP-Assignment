@@ -13,6 +13,8 @@
 ### Compare, the results obtained before and after cleaning the texts.
 
 ## Package
+nltk  
+matplotlib  
 
 ## Reference  
 Analyzing Messy Data Sentiment with Python and nltk  
