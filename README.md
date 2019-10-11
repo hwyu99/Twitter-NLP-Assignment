@@ -22,6 +22,7 @@ Before
 After  
 <img width="360" height="200" src="https://github.com/hwyu99/Twitter-NLP-Assignment/blob/master/2.2.png"/>  
 3.Compare, the results obtained before and after cleaning the texts.  
+<img width="450" height="110" src="https://github.com/hwyu99/Twitter-NLP-Assignment/blob/master/2.3.png"/>  
 
 ### Package
 nltk  
@@ -29,6 +30,6 @@ matplotlib
 
 ### Reference  
 Analyzing Messy Data Sentiment with Python and nltk  
-https://www.twilio.com/blog/2017/09/sentiment-analysis-python-messy-data-nltk.html
+https://www.twilio.com/blog/2017/09/sentiment-analysis-python-messy-data-nltk.html  
 Stopwords
 https://gist.github.com/sebleier/554280
