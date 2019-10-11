@@ -1,4 +1,4 @@
-## Twitter-NLP-Assignment
+## Twitter NLP Assignment
 
 ### Section 1
 1.Select 10 random tweets from Twitter:  
