@@ -1,7 +1,7 @@
 ## Twitter-NLP-Assignment
 
 ### Section 1
-1.Select 10 random tweets from Twitter:
+1.Select 10 random tweets from Twitter:  
 2.Classify the tweets as 'pos' or 'neg’  
 <img width="360" height="130" src="https://github.com/hwyu99/Twitter-NLP-Assignment/blob/master/1.1.png"/>  
 <img width="360" height="130" src="https://github.com/hwyu99/Twitter-NLP-Assignment/blob/master/1.2.png"/>  
