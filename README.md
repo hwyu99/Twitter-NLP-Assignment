@@ -9,6 +9,9 @@
 3.Discuss the accuracy of the classification (i.e., is the classification "correct"?)  
 <img width="350" height="60" src="https://github.com/hwyu99/Twitter-NLP-Assignment/blob/master/1.4.png"/>  
 4.How can the accuracy be improved?  
+a. Remove stop word  
+b. Remove non-alphanumeric characters, such as @  
+c. Convert all characters to lowercase so the program will consider Hello and HELLO the same.  
 
 
 ### Section 2
@@ -23,3 +26,5 @@ matplotlib
 ### Reference  
 Analyzing Messy Data Sentiment with Python and nltk  
 https://www.twilio.com/blog/2017/09/sentiment-analysis-python-messy-data-nltk.html
+Stopwords
+https://gist.github.com/sebleier/554280
