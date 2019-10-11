@@ -1,6 +1,6 @@
 # Twitter-NLP-Assignment
 
-## Section 1
+### Section 1
 1.Select 10 random tweets from Twitter:
 2.Classify the tweets as 'pos' or 'neg’  
 <img width="360" height="130" src="https://github.com/hwyu99/Twitter-NLP-Assignment/blob/master/1.1.png"/>  
@@ -11,15 +11,15 @@
 4.How can the accuracy be improved?  
 
 
-## Section 2
+### Section 2
 ### Parse a Text File to show the count of Words in the File.
 ### Illustrate the count of words in a graph. 
 ### Compare, the results obtained before and after cleaning the texts.
 
-## Package
+### Package
 nltk  
 matplotlib  
 
-## Reference  
+### Reference  
 Analyzing Messy Data Sentiment with Python and nltk  
 https://www.twilio.com/blog/2017/09/sentiment-analysis-python-messy-data-nltk.html
