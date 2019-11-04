@@ -13,7 +13,6 @@ a. Remove stop word
 b. Remove non-alphanumeric characters, such as @  
 c. Convert all characters to lowercase so the program will consider Hello and HELLO the same.  
 
-
 ### Section 2
 1.Parse a Text File to show the count of Words in the File.  
 2.Illustrate the count of words in a graph.  
