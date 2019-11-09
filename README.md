@@ -23,7 +23,7 @@ After
 3.Compare, the results obtained before and after cleaning the texts.  
 <img width="450" height="110" src="https://github.com/hwyu99/Twitter-NLP-Assignment/blob/master/2.3.png"/>  
 
-### Package
+### Package 
 nltk  
 matplotlib  
 
