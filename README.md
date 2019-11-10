@@ -16,7 +16,7 @@ c. Convert all characters to lowercase so the program will consider Hello and HE
 ### Section 2
 1.Parse a Text File to show the count of Words in the File.  
 2.Illustrate the count of words in a graph.  
-Before  
+Before   
 <img width="360" height="200" src="https://github.com/hwyu99/Twitter-NLP-Assignment/blob/master/2.1.png"/>  
 After  
 <img width="360" height="200" src="https://github.com/hwyu99/Twitter-NLP-Assignment/blob/master/2.2.png"/>  
