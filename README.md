@@ -31,5 +31,5 @@ matplotlib
 Analyzing Messy Data Sentiment with Python and nltk  
 https://www.twilio.com/blog/2017/09/sentiment-analysis-python-messy-data-nltk.html  
 Stopwords
-https://gist.github.com/sebleier/554280
+https://gist.github.com/sebleier/554280 
  
